@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 rave.tech 2023 resolver lua w/ dopez (fusion)
-ravetech 2018 csgo hvh cheat 
+and dev for ravetech 2018 csgo hvh cheat 
